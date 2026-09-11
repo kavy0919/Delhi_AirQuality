@@ -96,8 +96,8 @@ The `.joblib` and generated `.csv` artifacts are **not** committed to the repo â
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/kavy0919/Delhi_AirQuality/edit/main/README.md
+cd AQI H
 
 # (Recommended) create a virtual environment
 python3 -m venv venv
